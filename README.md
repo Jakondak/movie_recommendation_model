@@ -30,6 +30,9 @@ Built the recommendation system as part of the machine learning championship und
 ## How to start
 
 **1) model_1_step1_join_data.ipynb**: run the file for data processing
+
 **2) model_1_step2_baseline.ipynb**: baseline model
+
 **3) model_2rnn_rekko.ipynb**: recurrent neural network model
+
 **4) model_3_Blending.ipynb**: blending ensemble using models from step 3)
